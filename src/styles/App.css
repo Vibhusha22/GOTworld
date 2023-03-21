@@ -1,0 +1,92 @@
+.navibar{
+  background-image: url("https://images2.minutemediacdn.com/image/fetch/w_2000,h_2000,c_fit/https%3A%2F%2Fwinteriscoming.net%2Ffiles%2F2021%2F04%2FScreen-Shot-2021-04-21-at-11.00.59-AM.jpg");
+  background-size: 1400px 400px;
+  opacity: 0.9;
+  font-weight: bold;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  height: 40vh;
+  display:flex;
+  justify-content:center;
+  align-items: center;
+}
+.navbar{
+  background-image: linear-gradient(black,rgb(79, 75, 75));
+  opacity: 0.8;
+  width: 100%;
+  height: 8vh;
+  display:flex;
+  justify-content: space-evenly;
+  align-items: center;
+  text-decoration-line: underline;
+  text-decoration-thickness: 3px;
+  text-decoration-color: black;
+  font-size: 1.5rem;
+  text-shadow: 5px;
+}
+.footer{
+  background-color: grey;
+  width: 100%;
+  height: 5vh;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.books{
+  width: 100%;
+  height: 85vh;
+  background-color:gray;
+  Color:white;
+  font-weight: bolder;
+}
+.details{
+  width: 100%;
+  height: 80vh;
+  color: white;
+  background-color: black;
+  justify-content: center;
+  text-align: center;
+}
+a{
+  color: white;
+  font-size: larger;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.books1 {
+  background-color: black;
+}
+.books1-card {
+  display:flex;
+  text-align: center;
+  justify-content: center;
+  padding:0.1cm;
+  background-color: black;
+}
+.mytitle:hover{
+  background-color: blue;
+  color: black;
+  cursor:context-menu;
+}
+.text1{
+  background-color: black;
+  color: white;
+  font-weight: bolder;
+  text-align: center;
+}
+.mytitle{
+  padding : 2px;
+  height: 30px;
+  width: 300px;
+  background-color: rgb(82, 79, 79);
+  color: white;
+  border-radius: 5px;
+}
+
+
+
+
+
